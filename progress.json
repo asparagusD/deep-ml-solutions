@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T22:18:24.888Z",
+  "generated_at": "2026-09-27T22:20:01.981Z",
   "items": {
     "problem:1101": {
       "kind": "problem",
@@ -61,6 +61,19 @@
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-09-27T22:18:24.886Z",
       "last_pushed_at": "2026-09-27T22:18:24.886Z"
+    },
+    "problem:1102": {
+      "kind": "problem",
+      "id": "1102",
+      "title": "Select specific columns",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1102",
+      "path": "problems/1102-select-specific-columns",
+      "first_solved_at": "2026-09-27T22:20:01.346Z",
+      "last_pushed_at": "2026-09-27T22:20:01.346Z",
+      "language": "sql",
+      "lines": 4
     }
   }
 }
