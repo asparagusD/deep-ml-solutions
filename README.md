@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**19** solved · 14 problems · 0 labs · 5 math
+**20** solved · 15 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Select specific columns](https://www.deep-ml.com/problems/1102) | easy | 2026-09-27 | [solution](problems/1102-select-specific-columns) |
 | [Sort results with ORDER BY](https://www.deep-ml.com/problems/1104) | easy | 2026-09-28 | [solution](problems/1104-sort-results-with-order-by) |
 | [Top N with LIMIT](https://www.deep-ml.com/problems/1106) | easy | 2026-09-28 | [solution](problems/1106-top-n-with-limit) |
+| [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-10-09 | [solution](problems/0121-vector-element-wise-sum) |
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-09-28 | [solution](problems/1109-your-first-join) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-05-26 | [solution](problems/0309-product-rule-for-derivatives) |
 
