@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**22** solved · 17 problems · 0 labs · 5 math
+**23** solved · 18 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Average per group](https://www.deep-ml.com/problems/1108) | easy | 2026-09-28 | [solution](problems/1108-average-per-group) |
+| [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-10-09 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Count rows per group](https://www.deep-ml.com/problems/1107) | easy | 2026-09-28 | [solution](problems/1107-count-rows-per-group) |
 | [Customers Who Never Placed an Order](https://www.deep-ml.com/problems/1460) | easy | 2026-09-28 | [solution](problems/1460-customers-who-never-placed-an-order) |
 | [Delete Duplicate Emails Keeping One](https://www.deep-ml.com/problems/1112) | easy | 2026-09-28 | [solution](problems/1112-delete-duplicate-emails-keeping-one) |
